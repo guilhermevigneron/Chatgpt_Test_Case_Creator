@@ -23,8 +23,11 @@ Follow these steps to use the ChatGpt Test Case Creator:
 *Note: You can also copy content from a text file to paste it into ChatGpt. Refer to this tutorial for more details: https://www.youtube.com/watch?v=vB8Vz7hFAQQ*
 
 4- After finishing, click on the "Save ChatGpt" extension and save the output as a text file.
+
 5- Open Txt_To_Csv.py and set the path for your input text file and the desired output CSV file.
+
 6- Open the CSV file in Excel and copy the content.
+
 7- In Azure ADO, open Test Plans and click on "Add test case using grid".
 
 ![image](https://user-images.githubusercontent.com/13317539/232628586-a6dd26a0-e9e4-4cf7-9c1c-6253ac7ccd7e.png)
