@@ -17,7 +17,9 @@ Regex module installed (you can install it using pip install regex)
 Follow these steps to use the ChatGpt Test Case Creator:
 
 1- Install the prerequisites as mentioned above.
+
 2- Open ChatGpt and copy the prompt from "Prompt.txt".
+
 3- Add the relevant software documentation to the prompt. The more granular the documentation, the better the results.
 
 *Note: You can also copy content from a text file to paste it into ChatGpt. Refer to this tutorial for more details: https://www.youtube.com/watch?v=vB8Vz7hFAQQ*
