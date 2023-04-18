@@ -9,8 +9,11 @@ The ChatGpt Test Case Creator is designed to assist users in generating test cas
 Before running the tool, make sure you have the following:
 
 An account on ChatGPT
+
 "Save ChatGPT" extension installed
+
 Python installed
+
 Regex module installed (you can install it using pip install regex)
 
 ## Usage
